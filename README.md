@@ -8,11 +8,11 @@ We've recently made Unity5 2D Vehicle RL Simulator using Tensorflow (DQN 2015)
 
 
  ### Contributors
- **Edward Gyu Beom Im**
+ **Edward Gyu Beom Im**  
  **Joon Woo Ahn**
  
  ### Special Thanks To
- **Alex Tae Hwan Kim**
+ **Alex Tae Hwan Kim**  
  **Jung Hyun Yoon**
 
 
