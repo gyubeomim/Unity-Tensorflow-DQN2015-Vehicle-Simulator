@@ -1,1 +1,0 @@
-sudo git add . ; sudo git commit -m "from raspberryPI" ;sudo git push origin master -u
