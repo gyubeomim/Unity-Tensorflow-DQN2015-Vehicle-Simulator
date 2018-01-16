@@ -13,8 +13,8 @@ Korean Comments are implemented.
 
 
  ### Contributors
- **Edward Gyu Beom Im**  
- **Joon Woo Ahn**
+ - **Edward Gyu Beom Im**  
+ - **Joon Woo Ahn**
   
   
   
