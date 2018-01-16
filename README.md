@@ -17,11 +17,6 @@ Korean Comments are implemented.
  **Joon Woo Ahn**
   
   
- ### Special Thanks To
- **Alex Tae Hwan Kim**  
- **Jung Hyun Yoon**
- 
-  
   
 <br/>
 <br/>
