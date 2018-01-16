@@ -1,8 +1,13 @@
 # Unity-Tensorflow-DQN2015-Vehicle-Simualtor
 
-We've recently made Unity5 2D Vehicle RL Simulator using Tensorflow (DQN 2015)
+We've recently made Unity5 2D Vehicle RL Simulator using Tensorflow (DQN 2015)  
+Korean Comments are implemented.
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
